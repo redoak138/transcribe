@@ -1,0 +1,153 @@
+
+Audio: OVIONT_audio_examples/1601548647.17028.mp3
+Transcript: авиатранспорт добрый день Добрый день Извините пожалуйста Меня Смотри гарибян Добрый день Мария добрый день Добрый день Добрый день Перезвоните пожалуйста Алло
+
+Audio: OVIONT_audio_examples/1601550135.17179.mp3
+Transcript: интерфарм Добрый день будьте любезны 117
+
+Audio: OVIONT_audio_examples/1601550346.17195.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601551516.17287.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601551916.17308.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601552365.17342.mp3
+Transcript: лентаинформ изобретения Здравствуйте девушка Можно одно а я вот сейчас небольшие деньги но как-то обидно Ну конечно А как же
+
+Audio: OVIONT_audio_examples/1601552550.17375.mp3
+Transcript: администратор Может мне переключить на службу поддержки сотрудников технической поддержки Пожалуйста ожидайте соединения Будьте готовы назвать специалисту сын вашей организации информационного Здравствуйте Здравствуйте А может мне переключить на службу поддержки которого занимаюсь молодой человек обычно касаются нас 18 я не могу потому что он добился вам перезвоню Спасибо
+
+Audio: OVIONT_audio_examples/1601552811.17442.mp3
+Transcript: добрый день Здравствуйте А 238 добавочный общаюсь сейчас может производить либо на её коллегам
+
+Audio: OVIONT_audio_examples/1601552988.17450.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601553450.17487.mp3
+Transcript: Добрый день
+
+Audio: OVIONT_audio_examples/1601553668.17501.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601553734.17508.mp3
+Transcript: здравствуйте Алло Алло здравствуйте Виктория Бабаева Будьте добры Виктория Бабаева
+
+Audio: OVIONT_audio_examples/1601555051.17652.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601555454.17707.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601555601.17718.mp3
+Transcript: Альянс Информ добрый день это добавочная 238
+
+Audio: OVIONT_audio_examples/1601556304.17786.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601556497.17801.mp3
+Transcript: гентафарм Добрый день для жизни
+
+Audio: OVIONT_audio_examples/1601557066.17851.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601558073.17930.mp3
+Transcript: изобретение Здравствуй можно добавочный 238u Переключи Ладно хорошо спасибо
+
+Audio: OVIONT_audio_examples/1601558223.17936.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601558249.17953.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601558499.17984.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601558894.18029.mp3
+Transcript: Евгений Добрый день Алла добрый день Да вот вот когда у вас на руках это вы мне пишете письмо и я Договариваюсь с коллегами на настройку обучение мы проводим в онлайн-режиме с вами договоримся о времени и всё ему сможете работать письмо мне тогда напишите что у вас прямо всё готово и всё и договаривались с вами и можете время у нас всё готово желаемые там время допустим для обучения встречу там такой-то такие-то да ты там на выбор допустим мартом Элину ну пару там допустим такое-то время онлайн Ну либо Skype либо у нас да у нас в Skype бизнес-приложений бизнес Skype А мы сами создаем конференция пришлю вам приглашение
+
+Audio: OVIONT_audio_examples/1601559063.18062.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601559151.18073.mp3
+Transcript: Капитан достаточно замок был оставляли Да нет спасибо
+
+Audio: OVIONT_audio_examples/1601559169.18075.mp3
+Transcript: завтра форум Добрый добрый день Соедините пожалуйста с 18 с клиентом по телефону чуть позже перезвоню хорошо спасибо
+
+Audio: OVIONT_audio_examples/1601559388.18103.mp3
+Transcript: Фёдор Добрый день 250 сотрудников технической поддержки Пожалуйста ожидайте соединения Будьте готовы назвать специалисту сын вашей организации 28 протестовать 77377 28 потом было дальше 70 но 102 721 Я прошу прощения у вас я вас я пойму Но я даже не могу устроиться вы пропадаете через 4 слова либо вообще-то телефончика либо ещё что-то там плохая Сейчас всё равно пропадать А я вас слышу Вы просто пропадают не слышал через слово
+
+Audio: OVIONT_audio_examples/1601559448.18114.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601559468.18123.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601559498.18133.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601559592.18159.mp3
+Transcript: Здравствуйте А можно услышать вот Я сейчас быстренько заявление вам отправлю и либо если она сегодня подпишет мне пришли тайском тоже подписана сразу скажу чтобы Меньше времени тратить когда она понимает либо на месте мы всё Точнее можешь сделать А я просто тут папа заключила кинул вас паспортном и хорошим отцом видно будет такая форма Выключись часа
+
+Audio: OVIONT_audio_examples/1601559828.18202.mp3
+Transcript: Алло добрый день скажите пожалуйста 117 Андрей это Вера Слушай я написала по поводу что у нас привязка племена на КПП она мне ответила о том что она так я всегда договора сформирую по аналогичным по аналогии прошлых периодов В общем короче Ей нужны эти номера коды на одном компьютере у нас с тобой получилось Посмотрите там где Balance W я не знаю как смотреть там по-другому же самое также в этом нет алкогольной продукции смотрится регистрации лицензии сейчас тебе Марина позвонить подпишешься на удаленку хорошо Хорошо давай
+
+Audio: OVIONT_audio_examples/1601559922.18221.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601560354.18264.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601560902.18305.mp3
+ERROR: API unavailable
+
+Audio: OVIONT_audio_examples/1601560986.18314.mp3
+Transcript: композитор зачёты Здравствуйте Алла случилось Алло Вас не слышно перезвоните
+
+Audio: OVIONT_audio_examples/1601561035.18318.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601561221.18333.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601561327.18343.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601561790.18367.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601562409.18416.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601562426.18423.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601563282.18473.mp3
+Transcript: Здравствуйте организации заканчивается сертификат организация на остатке nm-55 27327 большим 222 971 Ну я думаю
+
+Audio: OVIONT_audio_examples/1601563438.18486.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601565004.18531.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601617611.18574.mp3
+Transcript: Евгения добрый день Здравствуйте Это не компания ООО территория А может это бухгалтерская контора где Екатерина Владимировна Она работает с 9 до тебя дойти до 5:30 работает на рабочем месте будет может тебе позвонить в 9:00 по московскому времени А скажите пожалуйста на бухгалтер Ну хорошо понял
+
+Audio: OVIONT_audio_examples/1601619258.18590.mp3
+Transcript: Доброе утро Наталья
+
+Audio: OVIONT_audio_examples/1601619808.18598.mp3
+Transcript: соединяешь сотрудникам технической поддержки Пожалуйста ожидайте соединения Юля привет А можно с Владимиром соединить Минут через 20 Всё хорошо спасибо
+
+Audio: OVIONT_audio_examples/1601621006.18636.mp3
+Transcript: Озон Фармацевтика
+
+Audio: OVIONT_audio_examples/1601621059.18640.mp3
+ERROR: Unable to recognize speech
+
+Audio: OVIONT_audio_examples/1601621510.18665.mp3
+Transcript: Разговор с портретом очень добрый видимо Виктория
