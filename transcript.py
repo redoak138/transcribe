@@ -3,17 +3,36 @@ import os
 import speech_recognition as sr
 
 # Creating a file with a transcription report
-report = open('report google recognition.txt', 'w')
+report = open('report google with split.txt', 'w')
+
+LINE_WIDTH = 100
+# Formatting the transcribed text for the report
+def recognition_report():
+    length = 0
+    for word in transcript.split():
+        if (len(word) + length < LINE_WIDTH):
+            report.write(word + ' ')
+            length+=len(word) + 1
+        else:
+            report.write('\n')
+            length = 0
+    report.write('\n')
 
 for filename in os.listdir('OVIONT_audio_examples'):
-    if filename.endswith(".mp3"):
+    if filename.endswith('.mp3'):
         # Processed audio file
-        report.write("\nAudio: " + 'OVIONT_audio_examples/' + filename + '\n')
+        report.write('\nOVIONT_audio_examples/' + filename + '\n')
 
         # Convert .mp3 to .wav
         stream = ffmpeg.input('OVIONT_audio_examples/' + filename)
         stream = ffmpeg.output(stream, 'audio.wav')
         ffmpeg.run(stream)
+
+        report.write("Size: {}\n".format(int(os.path.getsize('audio.wav')) / 1024))
+
+        # Splitting records into parts of 60 seconds
+        os.system('ffmpeg -i audio.wav -f segment -segment_time 60 -c copy audio%03d.wav')
+        os.remove('audio.wav')
 
         # Creating a Recognizer instance
         r = sr.Recognizer()
@@ -29,20 +48,23 @@ for filename in os.listdir('OVIONT_audio_examples'):
             recognize_wit(): Wit.ai
         '''
 
-        # Records the data from the entire file into an AudioData instance
-        harvard = sr.AudioFile('audio.wav')
-        with harvard as source:
-            audio = r.record(source)
+        for audio_chunk in os.listdir('.'):
+            if audio_chunk.endswith(".wav"):
 
-        try:
-            transcript = r.recognize_google(audio, language='ru-RU')
-            # Successful speech recognition
-            report.write("Transcript: " + transcript + '\n')
-        except sr.RequestError:
-            # API was unreachable or unresponsive
-            report.write("ERROR: API unavailable\n")
-        except sr.UnknownValueError:
-            # Speech was unintelligible
-            report.write("ERROR: Unable to recognize speech\n")
+                # Records the data from the entire file into an AudioData instance
+                harvard = sr.AudioFile(audio_chunk)
+                with harvard as source:
+                    audio = r.record(source)
 
-        os.remove('audio.wav')
+                try:
+                    transcript = r.recognize_google(audio, language='ru-RU')
+                    # Successful speech recognition
+                    recognition_report()
+                except sr.RequestError:
+                    # API was unreachable or unresponsive
+                    report.write("ERROR: API unavailable\n")
+                except sr.UnknownValueError:
+                    # Speech was unintelligible
+                    report.write("ERROR: Unable to recognize speech\n")
+
+                os.remove(audio_chunk)
