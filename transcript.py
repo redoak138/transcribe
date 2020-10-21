@@ -3,7 +3,7 @@ import os
 import speech_recognition as sr
 
 # Creating a file with a transcription report
-report = open('report google with split.txt', 'w')
+report = open('report google set 2 - 30sec.txt', 'w')
 
 LINE_WIDTH = 100
 # Formatting the transcribed text for the report
@@ -18,20 +18,20 @@ def recognition_report():
             length = 0
     report.write('\n')
 
-for filename in os.listdir('OVIONT_audio_examples'):
+for filename in os.listdir('audio_examples_set_2'):
     if filename.endswith('.mp3'):
         # Processed audio file
-        report.write('\nOVIONT_audio_examples/' + filename + '\n')
+        report.write('\naudio_examples_set_2/' + filename + '\n')
 
         # Convert .mp3 to .wav
-        stream = ffmpeg.input('OVIONT_audio_examples/' + filename)
+        stream = ffmpeg.input('audio_examples_set_2/' + filename)
         stream = ffmpeg.output(stream, 'audio.wav')
         ffmpeg.run(stream)
 
         report.write("Size: {}\n".format(int(os.path.getsize('audio.wav')) / 1024))
 
         # Splitting records into parts of 60 seconds
-        os.system('ffmpeg -i audio.wav -f segment -segment_time 60 -c copy audio%03d.wav')
+        os.system('ffmpeg -i audio.wav -f segment -segment_time 30 -c copy audio%03d.wav')
         os.remove('audio.wav')
 
         # Creating a Recognizer instance
@@ -68,3 +68,4 @@ for filename in os.listdir('OVIONT_audio_examples'):
                     report.write("ERROR: Unable to recognize speech\n")
 
                 os.remove(audio_chunk)
+  
