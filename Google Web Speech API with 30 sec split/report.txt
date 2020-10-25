@@ -1,0 +1,8 @@
+Total time: 02:13:01
+
+Total audio recordings: 77
+Average processing time per audio recording: 01:43
+
+Total chunks (30 sec) of audio recordings: 705
+Average processing time per chunk (30 sec) of audio recording: 00:11
+Chunks with errors: 3.9716312056737593%

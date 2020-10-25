@@ -1,0 +1,5 @@
+Size of the converted .wav file : 871.951171875
+
+Transcription:
+Доброе утро Наталья 
+ERROR: Unable to recognize speech

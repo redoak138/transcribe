@@ -1,0 +1,5 @@
+Size of the converted .wav file : 636.826171875
+
+Transcription:
+Разговор с портретом очень добрый видимо Виктория 
+ERROR: Unable to recognize speech
