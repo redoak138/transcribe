@@ -1,0 +1,5 @@
+Total time: 01:01:06
+
+Total audio recordings: 77
+Average processing time per audio recording: 00:47
+Total number of recognized words: 27564

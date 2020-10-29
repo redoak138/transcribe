@@ -1,8 +1,0 @@
-Size of the converted .wav file : 871 KB
-
-Transcription:
-Доброе утро Наталья 
-ERROR: Unable to recognize speech
-
-The processing time of the audio file: 00:11
-Number of recognized words: 3

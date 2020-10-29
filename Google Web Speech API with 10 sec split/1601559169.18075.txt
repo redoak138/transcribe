@@ -1,9 +1,8 @@
 Size of the converted .wav file : 339 KB
 
 Transcription:
-завтра форум Добрый добрый день Соедините 
-1806 рудник общаться с клиентом по телефону чуть позже перезвоню Хорошо 
-короче 
+завтра форум Добрый добрый день Соедините 1806 рудник общаться с клиентом по телефону чуть позже 
+перезвоню Хорошо короче 
 
-The processing time of the audio file: 00:08
+The processing time of the audio file: 00:06
 Number of recognized words: 18

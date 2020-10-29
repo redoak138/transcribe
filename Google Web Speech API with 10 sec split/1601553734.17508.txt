@@ -1,12 +1,9 @@
 Size of the converted .wav file : 912 KB
 
 Transcription:
-ERROR: Unable to recognize speech
-здравствуйте Алло Алло здравствуйте Виктория Бабаева 8 
-миллиард смотреть 
-ERROR: Unable to recognize speech
-приснился значит Виктория Бабаева могу уснуть на минуточку 
-статус просто забыл что меня что-то скрываешь пожалуйста Хорошо спасибо 
+здравствуйте Алло Алло здравствуйте Виктория Бабаева 8 миллиард смотреть приснился значит Виктория 
+Бабаева могу уснуть на минуточку статус просто забыл что меня что-то скрываешь пожалуйста Хорошо 
+спасибо 
 
-The processing time of the audio file: 00:25
+The processing time of the audio file: 00:24
 Number of recognized words: 27

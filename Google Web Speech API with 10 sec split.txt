@@ -1,9 +1,5 @@
-Total time: 02:18:45
+Total time: 02:02:25
 
 Total audio recordings: 77
-Average processing time per audio recording: 01:48
+Average processing time per audio recording: 01:35
 Total number of recognized words: 19775
-
-Total chunks (10 sec) of audio recordings: 2045
-Average processing time per chunk (10 sec) of audio recording: 00:04
-Chunks with errors: 11.00244498777506%

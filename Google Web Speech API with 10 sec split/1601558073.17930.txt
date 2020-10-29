@@ -1,12 +1,9 @@
 Size of the converted .wav file : 814 KB
 
 Transcription:
-изобретение Здравствуй можно добавочный 
-ERROR: Unable to recognize speech
-ERROR: Unable to recognize speech
-Катерина носовец они находятся можете оставить ваш телефон Ебану 
-Переключи нет узнайте В каких случаях я ушла в третий раз звонил не знаете Ладно хорошо спасибо 
-ERROR: Unable to recognize speech
+изобретение Здравствуй можно добавочный Катерина носовец они находятся можете оставить ваш телефон 
+Ебану Переключи нет узнайте В каких случаях я ушла в третий раз звонил не знаете Ладно хорошо 
+спасибо 
 
 The processing time of the audio file: 00:15
 Number of recognized words: 30

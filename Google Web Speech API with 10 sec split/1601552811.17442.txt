@@ -1,9 +1,8 @@
 Size of the converted .wav file : 412 KB
 
 Transcription:
-ERROR: Unable to recognize speech
-Информ добрый день Здравствуйте А 238 добавочный Может сейчас может он производит 
-Лего Останкинский комбинат Ольга она знает 
+Информ добрый день Здравствуйте А 238 добавочный Может сейчас может он производит Лего Останкинский 
+комбинат Ольга она знает 
 
-The processing time of the audio file: 00:09
+The processing time of the audio file: 00:10
 Number of recognized words: 18
