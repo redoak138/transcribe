@@ -1,5 +1,8 @@
-Size of the converted .wav file : 339.826171875
+Size of the converted .wav file : 339 KB
 
 Transcription:
 завтра форум Добрый добрый день Соедините пожалуйста с 18 с клиентом по телефону чуть позже 
-хорошо спасибо 
+перезвоню хорошо спасибо 
+
+The processing time of the audio file: 00:06
+Number of recognized words: 18

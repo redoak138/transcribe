@@ -1,0 +1,11 @@
+Size of the converted .wav file : 636 KB
+
+Transcription:
+Разговор с портретом очень добрый видимо Виктория 
+ERROR: Unable to recognize speech
+ERROR: Unable to recognize speech
+ERROR: Unable to recognize speech
+ERROR: Unable to recognize speech
+
+The processing time of the audio file: 00:08
+Number of recognized words: 7

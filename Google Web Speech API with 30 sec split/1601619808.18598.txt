@@ -1,5 +1,8 @@
-Size of the converted .wav file : 363.451171875
+Size of the converted .wav file : 363 KB
 
 Transcription:
 соединяешь сотрудникам технической поддержки Пожалуйста ожидайте соединения Юля привет А можно с 
-соединить Минут через 20 Всё хорошо спасибо 
+Владимиром соединить Минут через 20 Всё хорошо спасибо 
+
+The processing time of the audio file: 00:06
+Number of recognized words: 20

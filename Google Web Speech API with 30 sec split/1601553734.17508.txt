@@ -1,5 +1,8 @@
-Size of the converted .wav file : 912.451171875
+Size of the converted .wav file : 912 KB
 
 Transcription:
 здравствуйте Алло Алло здравствуйте Виктория Бабаева Будьте добры 
 престиж-авто Виктория Бабаева могу уснуть 
+
+The processing time of the audio file: 00:13
+Number of recognized words: 13

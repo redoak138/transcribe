@@ -1,4 +1,7 @@
-Size of the converted .wav file : 380.326171875
+Size of the converted .wav file : 380 KB
 
 Transcription:
 Добрый день 
+
+The processing time of the audio file: 00:10
+Number of recognized words: 2

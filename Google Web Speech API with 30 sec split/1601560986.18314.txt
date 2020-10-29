@@ -1,4 +1,7 @@
-Size of the converted .wav file : 266.701171875
+Size of the converted .wav file : 266 KB
 
 Transcription:
 композитор зачёты Здравствуйте Алла случилось Алло Вас не слышно перезвоните 
+
+The processing time of the audio file: 00:04
+Number of recognized words: 10
